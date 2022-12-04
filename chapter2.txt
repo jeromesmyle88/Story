@@ -1,0 +1,3 @@
+this is the 2nd thing. of love love love hope hope hope
+using git status. you will know what is the commited. the untrack.
+using add. git add. chapter2.txt 
